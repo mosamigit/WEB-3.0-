@@ -1,1 +1,4 @@
-
+{
+    "api_url": "http://172.17.1.64:3000/api/getuserproductsearchhistory",
+    "search_url": "http://172.17.1.64:3000/api/getuserproductsearchhistory"
+}
