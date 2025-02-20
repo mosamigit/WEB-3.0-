@@ -1,1 +1,1425 @@
+2023-09-20 11:57:37,845 - ERROR - Request failed with status code 500
+2023-09-20 12:01:29,476 - ERROR - Configuration file not found: config\config_search_data.json
+2023-09-20 12:02:37,827 - ERROR - Configuration file not found: /..config\config_search_data.json
+2023-09-20 12:03:16,356 - ERROR - Request failed with status code 500
+2023-09-20 12:08:06,694 - ERROR - Request failed with status code 500
+2023-09-25 11:04:04,978 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-09-25 11:21:50,662 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=6
+2023-09-25 11:42:53,945 - INFO - Data processing and saving completed.
+2023-09-25 14:07:01,646 - INFO - Data processing and saving completed.
+2023-09-25 14:18:43,299 - INFO - Data processing and saving completed.
+2023-09-25 14:23:04,801 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-09-25 14:37:56,004 - ERROR - Unable to load the data
+2023-09-25 14:37:59,311 - INFO - Data processing and saving completed.
+2023-09-25 14:38:56,862 - ERROR - Unable to load the data
+2023-09-25 14:39:01,341 - INFO - Data processing and saving completed.
+2023-09-25 14:39:56,918 - ERROR - Unable to load the data
+2023-09-25 14:40:03,541 - INFO - Data processing and saving completed.
+2023-09-25 14:44:34,607 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=6
+2023-09-25 14:47:51,499 - INFO - Data processing and saving completed.
+2023-09-25 14:52:58,765 - INFO - Data processing and saving completed.
+2023-09-25 14:57:17,511 - INFO - Data processing and saving completed.
+2023-09-25 14:57:17,533 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-25 14:57:17,533 - INFO - [33mPress CTRL+C to quit[0m
+2023-09-25 14:57:17,548 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-25 14:58:25,418 - INFO - Data processing and saving completed.
+2023-09-25 14:58:25,453 - WARNING -  * Debugger is active!
+2023-09-25 14:58:25,465 - INFO -  * Debugger PIN: 723-088-456
+2023-09-25 14:58:25,675 - INFO - 127.0.0.1 - - [25/Sep/2023 14:58:25] "[33mGET / HTTP/1.1[0m" 404 -
+2023-09-25 14:58:25,750 - INFO - 127.0.0.1 - - [25/Sep/2023 14:58:25] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 14:58:28,946 - INFO - 127.0.0.1 - - [25/Sep/2023 14:58:28] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 14:58:30,207 - INFO - 127.0.0.1 - - [25/Sep/2023 14:58:30] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 14:58:48,255 - INFO - 127.0.0.1 - - [25/Sep/2023 14:58:48] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 14:59:27,139 - INFO - 127.0.0.1 - - [25/Sep/2023 14:59:27] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 14:59:31,072 - INFO - 127.0.0.1 - - [25/Sep/2023 14:59:31] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:00:11,556 - INFO - 127.0.0.1 - - [25/Sep/2023 15:00:11] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:00:24,287 - INFO - Data processing and saving completed.
+2023-09-25 15:00:29,147 - INFO - Data processing and saving completed.
+2023-09-25 15:01:26,650 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-25 15:01:26,650 - INFO - [33mPress CTRL+C to quit[0m
+2023-09-25 15:01:26,651 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-25 15:01:47,117 - INFO - Data processing and saving completed.
+2023-09-25 15:10:14,949 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-09-25 15:10:18,567 - INFO - Data processing and saving completed.
+2023-09-25 15:10:18,597 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-25 15:10:18,597 - INFO - [33mPress CTRL+C to quit[0m
+2023-09-25 15:10:18,613 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-25 15:15:22,002 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-25 15:15:22,002 - INFO - [33mPress CTRL+C to quit[0m
+2023-09-25 15:16:58,793 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-25 15:16:58,793 - INFO - [33mPress CTRL+C to quit[0m
+2023-09-25 15:17:07,327 - INFO - 127.0.0.1 - - [25/Sep/2023 15:17:07] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:17:11,619 - INFO - 127.0.0.1 - - [25/Sep/2023 15:17:11] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:17:27,392 - INFO - 127.0.0.1 - - [25/Sep/2023 15:17:27] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:17:46,078 - INFO - 127.0.0.1 - - [25/Sep/2023 15:17:46] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:18:02,220 - INFO - 127.0.0.1 - - [25/Sep/2023 15:18:02] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:18:04,417 - INFO - 127.0.0.1 - - [25/Sep/2023 15:18:04] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:19:26,871 - INFO - 127.0.0.1 - - [25/Sep/2023 15:19:26] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:19:30,499 - INFO - 127.0.0.1 - - [25/Sep/2023 15:19:30] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:23:43,310 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-25 15:23:43,311 - INFO - [33mPress CTRL+C to quit[0m
+2023-09-25 15:23:52,178 - INFO - 127.0.0.1 - - [25/Sep/2023 15:23:52] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:23:58,212 - INFO - 127.0.0.1 - - [25/Sep/2023 15:23:58] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:27:40,770 - INFO - 127.0.0.1 - - [25/Sep/2023 15:27:40] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:29:07,451 - INFO - Data processing and saving completed.
+2023-09-25 15:29:38,776 - INFO - 127.0.0.1 - - [25/Sep/2023 15:29:38] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:29:40,151 - INFO - 127.0.0.1 - - [25/Sep/2023 15:29:40] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:32:45,234 - INFO - 127.0.0.1 - - [25/Sep/2023 15:32:45] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:34:21,693 - INFO - Data processing and saving completed.
+2023-09-25 15:34:33,044 - INFO - 127.0.0.1 - - [25/Sep/2023 15:34:33] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:34:44,704 - INFO - 127.0.0.1 - - [25/Sep/2023 15:34:44] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:39:30,537 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-09-25 15:39:32,969 - INFO - Data processing and saving completed.
+2023-09-25 15:44:43,154 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-09-25 15:44:45,482 - INFO - Data processing and saving completed.
+2023-09-25 15:44:49,538 - INFO - 127.0.0.1 - - [25/Sep/2023 15:44:49] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:45:13,242 - ERROR - Exception on /get_recommendations [GET]
+Traceback (most recent call last):
+  File "C:\Users\alokkumar.das\AppData\Roaming\Python\Python310\site-packages\pandas\core\indexes\base.py", line 3803, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 138, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 165, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 5745, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 5753, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'www xx yyy'
 
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\alokkumar.das\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\alokkumar.das\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\alokkumar.das\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\alokkumar.das\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "D:\POC_WEB_3.0\Development\3.0\app.py", line 113, in get_recommendations
+    related_products = find_related_products_for_email(customer_email_to_find_related_products,product_list,target_product_name)
+  File "D:\POC_WEB_3.0\Development\3.0\app.py", line 54, in find_related_products_for_email
+    correlations = find_related_customers(product_name)
+  File "D:\POC_WEB_3.0\Development\3.0\app.py", line 27, in find_related_customers
+    correlations = pivot_table.corrwith(pivot_table[product_name])
+  File "C:\Users\alokkumar.das\AppData\Roaming\Python\Python310\site-packages\pandas\core\frame.py", line 3804, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\alokkumar.das\AppData\Roaming\Python\Python310\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    raise KeyError(key) from err
+KeyError: 'www xx yyy'
+2023-09-25 15:45:13,370 - INFO - 127.0.0.1 - - [25/Sep/2023 15:45:13] "[35m[1mGET /get_recommendations HTTP/1.1[0m" 500 -
+2023-09-25 15:45:20,806 - INFO - 127.0.0.1 - - [25/Sep/2023 15:45:20] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:46:03,203 - INFO - 127.0.0.1 - - [25/Sep/2023 15:46:03] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 15:49:57,655 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=6
+2023-09-25 15:50:01,345 - INFO - Data processing and saving completed.
+2023-09-25 15:55:10,890 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-09-25 15:55:14,443 - INFO - Data processing and saving completed.
+2023-09-25 15:58:54,182 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-25 15:58:54,182 - INFO - [33mPress CTRL+C to quit[0m
+2023-09-25 16:01:43,516 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-25 16:01:43,516 - INFO - [33mPress CTRL+C to quit[0m
+2023-09-25 16:02:00,495 - INFO - 127.0.0.1 - - [25/Sep/2023 16:02:00] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 16:02:04,223 - INFO - 127.0.0.1 - - [25/Sep/2023 16:02:04] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 16:06:57,691 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=6
+2023-09-25 16:07:00,432 - INFO - Data processing and saving completed.
+2023-09-25 16:07:00,432 - INFO - Restarting the Flask app...
+2023-09-25 16:13:57,820 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-25 16:13:57,821 - INFO - [33mPress CTRL+C to quit[0m
+2023-09-25 16:14:10,692 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-09-25 16:14:13,240 - INFO - 127.0.0.1 - - [25/Sep/2023 16:14:13] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 16:14:13,885 - INFO - Data processing and saving completed.
+2023-09-25 16:14:13,885 - INFO - Updating the Flask app...
+2023-09-25 16:14:18,137 - INFO - 127.0.0.1 - - [25/Sep/2023 16:14:18] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 16:14:27,629 - INFO - 127.0.0.1 - - [25/Sep/2023 16:14:27] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 16:19:26,727 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-09-25 16:19:28,973 - INFO - Data processing and saving completed.
+2023-09-25 16:19:28,973 - INFO - Updating the Flask app...
+2023-09-25 16:20:18,507 - INFO - 127.0.0.1 - - [25/Sep/2023 16:20:18] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 16:21:31,189 - INFO - 127.0.0.1 - - [25/Sep/2023 16:21:31] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 16:24:40,424 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-09-25 16:24:41,490 - INFO - Data processing and saving completed.
+2023-09-25 16:24:41,490 - INFO - Updating the Flask app...
+2023-09-25 16:25:43,146 - INFO - 127.0.0.1 - - [25/Sep/2023 16:25:43] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 16:26:09,268 - INFO - 127.0.0.1 - - [25/Sep/2023 16:26:09] "GET /get_recommendations HTTP/1.1" 200 -
+2023-09-25 16:29:53,260 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-09-25 16:29:54,318 - INFO - Data processing and saving completed.
+2023-09-25 16:29:54,318 - INFO - Updating the Flask app...
+2023-09-25 16:35:25,257 - INFO - Data processing and saving completed.
+2023-09-25 16:35:25,257 - INFO - Updating the Flask app...
+2023-09-25 20:21:26,494 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001C2B2915480>, 'Connection to 172.17.1.64 timed out. (connect timeout=None)'))
+2023-09-25 20:21:26,499 - ERROR - An error occurred: 'product_name'
+2023-09-25 20:21:26,499 - INFO - Updating the Flask app...
+2023-10-03 14:27:24,922 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-03 14:27:24,922 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-03 14:37:22,942 - ERROR - Unable to load the data
+2023-10-03 14:37:22,952 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-03 14:37:22,952 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-03 14:37:22,996 - ERROR - An error occurred: 'product_name'
+2023-10-03 14:37:22,996 - INFO - Updating the Flask app...
+2023-10-03 14:39:39,045 - INFO - 127.0.0.1 - - [03/Oct/2023 14:39:39] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-03 14:41:12,588 - INFO - 127.0.0.1 - - [03/Oct/2023 14:41:12] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-03 14:42:11,981 - INFO - 127.0.0.1 - - [03/Oct/2023 14:42:11] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-03 14:42:23,011 - ERROR - Unable to load the data
+2023-10-03 14:42:23,013 - ERROR - An error occurred: 'product_name'
+2023-10-03 14:42:23,013 - INFO - Updating the Flask app...
+2023-10-03 14:42:32,799 - INFO - 127.0.0.1 - - [03/Oct/2023 14:42:32] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-03 15:17:02,632 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-10-03 15:19:27,484 - INFO - Data collected from page 1
+2023-10-03 15:19:28,607 - INFO - Data collected from page 2
+2023-10-03 15:19:29,742 - INFO - Data collected from page 3
+2023-10-03 15:19:37,435 - INFO - Data collected from page 4
+2023-10-03 15:19:38,586 - INFO - Data collected from page 5
+2023-10-03 15:19:39,241 - INFO - Data collected from page 6
+2023-10-03 15:33:11,879 - INFO - Data processing and saving completed.
+2023-10-03 15:34:37,750 - INFO - Data collected from page 1
+2023-10-03 15:34:38,848 - INFO - Data collected from page 2
+2023-10-03 15:34:40,012 - INFO - Data collected from page 3
+2023-10-03 15:34:48,002 - INFO - Data collected from page 4
+2023-10-03 15:34:49,483 - INFO - Data collected from page 5
+2023-10-03 15:34:50,216 - INFO - Data collected from page 6
+2023-10-03 15:34:50,747 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-03 15:34:50,747 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-03 15:34:56,998 - INFO - Data collected from page 1
+2023-10-03 15:34:59,011 - INFO - Data collected from page 2
+2023-10-03 15:35:00,274 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=3
+2023-10-03 15:35:01,816 - INFO - Data processing and model retraining completed.
+2023-10-03 15:35:01,816 - INFO - Updating the Flask app...
+2023-10-03 15:36:25,402 - INFO - Data collected from page 1
+2023-10-03 15:36:26,537 - INFO - Data collected from page 2
+2023-10-03 15:36:28,277 - INFO - Data collected from page 3
+2023-10-03 15:36:35,257 - INFO - Data collected from page 4
+2023-10-03 15:36:36,055 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-10-03 15:36:36,216 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-03 15:36:36,216 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-03 15:36:36,598 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=1
+2023-10-03 15:36:36,602 - ERROR - An error occurred: 'product_name'
+2023-10-03 15:36:36,603 - INFO - Updating the Flask app...
+2023-10-03 15:37:04,547 - INFO - 127.0.0.1 - - [03/Oct/2023 15:37:04] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-03 15:37:06,401 - INFO - 127.0.0.1 - - [03/Oct/2023 15:37:06] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-03 15:37:35,863 - INFO - 127.0.0.1 - - [03/Oct/2023 15:37:35] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-03 15:41:38,509 - INFO - Data collected from page 1
+2023-10-03 15:41:39,588 - INFO - Data collected from page 2
+2023-10-03 15:41:40,787 - INFO - Data collected from page 3
+2023-10-03 15:41:48,924 - INFO - Data collected from page 4
+2023-10-03 15:41:50,387 - INFO - Data collected from page 5
+2023-10-03 15:41:51,106 - INFO - Data collected from page 6
+2023-10-03 15:41:54,485 - INFO - Data processing and model retraining completed.
+2023-10-03 15:41:54,485 - INFO - Updating the Flask app...
+2023-10-03 15:42:25,828 - INFO - 127.0.0.1 - - [03/Oct/2023 15:42:25] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-03 15:44:17,020 - INFO - Data collected from page 1
+2023-10-03 15:44:18,142 - INFO - Data collected from page 2
+2023-10-03 15:44:19,480 - INFO - Data collected from page 3
+2023-10-03 15:44:27,414 - INFO - Data collected from page 4
+2023-10-03 15:44:28,519 - INFO - Data collected from page 5
+2023-10-03 15:44:29,185 - INFO - Data collected from page 6
+2023-10-03 15:44:29,763 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-03 15:44:29,763 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-03 15:44:30,551 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=1
+2023-10-03 15:44:30,554 - ERROR - An error occurred: 'product_name'
+2023-10-03 15:44:30,554 - INFO - Updating the Flask app...
+2023-10-03 15:53:21,207 - INFO - 127.0.0.1 - - [03/Oct/2023 15:53:21] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-03 16:08:45,620 - INFO - 127.0.0.1 - - [03/Oct/2023 16:08:45] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-03 16:09:33,644 - INFO - 127.0.0.1 - - [03/Oct/2023 16:09:33] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-03 16:24:16,879 - INFO - Data collected from page 1
+2023-10-03 16:24:18,367 - INFO - Data collected from page 2
+2023-10-03 16:24:19,837 - INFO - Data collected from page 3
+2023-10-03 16:24:26,595 - INFO - Data collected from page 4
+2023-10-03 16:24:27,751 - INFO - Data collected from page 5
+2023-10-03 16:24:28,305 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=6
+2023-10-03 16:25:35,591 - INFO - Data collected from page 1
+2023-10-03 16:25:36,694 - INFO - Data collected from page 2
+2023-10-03 16:25:38,852 - INFO - Data collected from page 3
+2023-10-03 16:25:46,154 - INFO - Data collected from page 4
+2023-10-03 16:25:47,568 - INFO - Data collected from page 5
+2023-10-03 16:25:48,129 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=6
+2023-10-03 16:25:48,370 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-03 16:25:48,370 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-03 16:25:48,786 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=1
+2023-10-03 16:25:48,790 - ERROR - An error occurred: 'product_name'
+2023-10-03 16:25:48,790 - INFO - Updating the Flask app...
+2023-10-03 16:30:50,742 - INFO - Data collected from page 1
+2023-10-03 16:30:51,872 - INFO - Data collected from page 2
+2023-10-03 16:30:52,989 - INFO - Data collected from page 3
+2023-10-03 16:31:00,983 - INFO - Data collected from page 4
+2023-10-03 16:31:01,533 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-10-03 16:31:05,041 - INFO - Data processing and model retraining completed.
+2023-10-03 16:31:05,041 - INFO - Updating the Flask app...
+2023-10-03 16:36:06,892 - INFO - Data collected from page 1
+2023-10-03 16:36:08,139 - INFO - Data collected from page 2
+2023-10-03 16:36:09,301 - INFO - Data collected from page 3
+2023-10-03 16:36:17,148 - INFO - Data collected from page 4
+2023-10-03 16:36:18,268 - INFO - Data collected from page 5
+2023-10-03 16:36:18,919 - INFO - Data collected from page 6
+2023-10-03 16:36:21,904 - INFO - Data processing and model retraining completed.
+2023-10-03 16:36:21,905 - INFO - Updating the Flask app...
+2023-10-03 16:41:23,523 - INFO - Data collected from page 1
+2023-10-03 16:41:24,632 - INFO - Data collected from page 2
+2023-10-03 16:41:25,856 - INFO - Data collected from page 3
+2023-10-03 16:41:33,835 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-10-03 16:41:35,628 - INFO - Data processing and model retraining completed.
+2023-10-03 16:41:35,628 - INFO - Updating the Flask app...
+2023-10-03 16:43:50,504 - INFO - Data collected from page 1
+2023-10-03 16:43:51,695 - INFO - Data collected from page 2
+2023-10-03 16:43:52,889 - INFO - Data collected from page 3
+2023-10-03 16:44:01,111 - INFO - Data collected from page 4
+2023-10-03 16:44:01,889 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-10-03 16:44:02,127 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-03 16:44:02,127 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-03 16:44:02,506 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=1
+2023-10-03 16:44:02,524 - ERROR - An error occurred: 'product_name'
+2023-10-03 16:44:02,524 - INFO - Updating the Flask app...
+2023-10-03 16:49:04,348 - INFO - Data collected from page 1
+2023-10-03 16:49:05,477 - INFO - Data collected from page 2
+2023-10-03 16:49:06,703 - INFO - Data collected from page 3
+2023-10-03 16:49:14,445 - INFO - Data collected from page 4
+2023-10-03 16:49:14,992 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-10-03 16:49:19,653 - INFO - Data processing and model retraining completed.
+2023-10-03 16:49:19,653 - INFO - Updating the Flask app...
+2023-10-03 16:54:21,588 - INFO - Data collected from page 1
+2023-10-03 16:54:22,746 - INFO - Data collected from page 2
+2023-10-03 16:54:23,916 - INFO - Data collected from page 3
+2023-10-03 16:54:30,836 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-10-03 16:54:32,557 - INFO - Data processing and model retraining completed.
+2023-10-03 16:54:32,558 - INFO - Updating the Flask app...
+2023-10-03 16:57:41,892 - INFO - 127.0.0.1 - - [03/Oct/2023 16:57:41] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-03 16:57:43,750 - INFO - 127.0.0.1 - - [03/Oct/2023 16:57:43] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-03 16:57:51,735 - INFO - 127.0.0.1 - - [03/Oct/2023 16:57:51] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-03 16:57:53,242 - INFO - 127.0.0.1 - - [03/Oct/2023 16:57:53] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-03 16:57:53,567 - INFO - 127.0.0.1 - - [03/Oct/2023 16:57:53] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-03 16:59:34,449 - INFO - Data collected from page 1
+2023-10-03 16:59:35,595 - INFO - Data collected from page 2
+2023-10-03 16:59:36,741 - INFO - Data collected from page 3
+2023-10-03 16:59:44,336 - INFO - Data collected from page 4
+2023-10-03 16:59:44,877 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-10-03 16:59:47,273 - INFO - Data processing and model retraining completed.
+2023-10-03 16:59:47,273 - INFO - Updating the Flask app...
+2023-10-03 17:04:49,295 - INFO - Data collected from page 1
+2023-10-03 17:04:50,459 - INFO - Data collected from page 2
+2023-10-03 17:04:51,632 - INFO - Data collected from page 3
+2023-10-03 17:04:59,045 - INFO - Data collected from page 4
+2023-10-03 17:05:00,219 - INFO - Data collected from page 5
+2023-10-03 17:05:00,858 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=6
+2023-10-03 17:05:03,698 - INFO - Data processing and model retraining completed.
+2023-10-03 17:05:03,699 - INFO - Updating the Flask app...
+2023-10-03 17:10:05,970 - INFO - Data collected from page 1
+2023-10-03 17:10:07,178 - INFO - Data collected from page 2
+2023-10-03 17:10:08,414 - INFO - Data collected from page 3
+2023-10-03 17:10:15,897 - INFO - Data collected from page 4
+2023-10-03 17:10:17,322 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-10-03 17:10:19,695 - INFO - Data processing and model retraining completed.
+2023-10-03 17:10:19,695 - INFO - Updating the Flask app...
+2023-10-03 17:15:21,638 - INFO - Data collected from page 1
+2023-10-03 17:15:22,797 - INFO - Data collected from page 2
+2023-10-03 17:15:23,937 - INFO - Data collected from page 3
+2023-10-03 17:15:31,025 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-10-03 17:15:32,786 - INFO - Data processing and model retraining completed.
+2023-10-03 17:15:32,786 - INFO - Updating the Flask app...
+2023-10-03 17:20:34,843 - INFO - Data collected from page 1
+2023-10-03 17:20:36,106 - INFO - Data collected from page 2
+2023-10-03 17:20:37,292 - INFO - Data collected from page 3
+2023-10-03 17:20:44,994 - INFO - Data collected from page 4
+2023-10-03 17:20:45,680 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-10-03 17:20:48,005 - INFO - Data processing and model retraining completed.
+2023-10-03 17:20:48,005 - INFO - Updating the Flask app...
+2023-10-03 17:25:49,708 - INFO - Data collected from page 1
+2023-10-03 17:25:50,851 - INFO - Data collected from page 2
+2023-10-03 17:25:52,139 - INFO - Data collected from page 3
+2023-10-03 17:26:00,077 - INFO - Data collected from page 4
+2023-10-03 17:26:01,231 - INFO - Data collected from page 5
+2023-10-03 17:26:01,821 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=6
+2023-10-03 17:26:04,802 - INFO - Data processing and model retraining completed.
+2023-10-03 17:26:04,802 - INFO - Updating the Flask app...
+2023-10-03 17:31:06,594 - INFO - Data collected from page 1
+2023-10-03 17:31:07,811 - INFO - Data collected from page 2
+2023-10-03 17:31:09,054 - INFO - Data collected from page 3
+2023-10-03 17:31:16,875 - INFO - Data collected from page 4
+2023-10-03 17:31:18,026 - INFO - Data collected from page 5
+2023-10-03 17:31:18,726 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=6
+2023-10-03 17:31:21,589 - INFO - Data processing and model retraining completed.
+2023-10-03 17:31:21,589 - INFO - Updating the Flask app...
+2023-10-03 17:36:23,317 - INFO - Data collected from page 1
+2023-10-03 17:36:24,484 - INFO - Data collected from page 2
+2023-10-03 17:36:25,798 - INFO - Data collected from page 3
+2023-10-03 17:36:33,407 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-10-03 17:36:34,964 - INFO - Data processing and model retraining completed.
+2023-10-03 17:36:34,964 - INFO - Updating the Flask app...
+2023-10-03 17:41:37,011 - INFO - Data collected from page 1
+2023-10-03 17:41:38,226 - INFO - Data collected from page 2
+2023-10-03 17:41:39,434 - INFO - Data collected from page 3
+2023-10-03 17:41:47,376 - INFO - Data collected from page 4
+2023-10-03 17:41:48,608 - INFO - Data collected from page 5
+2023-10-03 17:41:49,306 - INFO - Data collected from page 6
+2023-10-03 17:41:53,277 - INFO - Data processing and model retraining completed.
+2023-10-03 17:41:53,277 - INFO - Updating the Flask app...
+2023-10-03 19:54:35,620 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024AE90033D0>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2023-10-03 19:54:35,623 - ERROR - An error occurred: 'product_name'
+2023-10-03 19:54:35,624 - INFO - Updating the Flask app...
+2023-10-03 19:59:35,644 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024AE9002F20>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2023-10-03 19:59:35,648 - ERROR - An error occurred: 'product_name'
+2023-10-03 19:59:35,648 - INFO - Updating the Flask app...
+2023-10-03 20:04:35,655 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024AE45F3F70>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2023-10-03 20:04:35,659 - ERROR - An error occurred: 'product_name'
+2023-10-03 20:04:35,659 - INFO - Updating the Flask app...
+2023-10-03 20:09:56,725 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024AE9001600>, 'Connection to 172.17.1.64 timed out. (connect timeout=None)'))
+2023-10-03 20:09:56,731 - ERROR - An error occurred: 'product_name'
+2023-10-03 20:09:56,732 - INFO - Updating the Flask app...
+2023-10-03 20:15:17,782 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024AE90030D0>, 'Connection to 172.17.1.64 timed out. (connect timeout=None)'))
+2023-10-03 20:15:17,786 - ERROR - An error occurred: 'product_name'
+2023-10-03 20:15:17,787 - INFO - Updating the Flask app...
+2023-10-03 20:20:38,823 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024AE9002FB0>, 'Connection to 172.17.1.64 timed out. (connect timeout=None)'))
+2023-10-03 20:20:38,826 - ERROR - An error occurred: 'product_name'
+2023-10-03 20:20:38,826 - INFO - Updating the Flask app...
+2023-10-03 20:25:59,884 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024AE9080730>, 'Connection to 172.17.1.64 timed out. (connect timeout=None)'))
+2023-10-03 20:25:59,889 - ERROR - An error occurred: 'product_name'
+2023-10-03 20:25:59,890 - INFO - Updating the Flask app...
+2023-10-03 20:31:20,951 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024AE90016C0>, 'Connection to 172.17.1.64 timed out. (connect timeout=None)'))
+2023-10-03 20:31:20,956 - ERROR - An error occurred: 'product_name'
+2023-10-03 20:31:20,956 - INFO - Updating the Flask app...
+2023-10-03 20:36:42,006 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024AE9001FC0>, 'Connection to 172.17.1.64 timed out. (connect timeout=None)'))
+2023-10-03 20:36:42,010 - ERROR - An error occurred: 'product_name'
+2023-10-03 20:36:42,010 - INFO - Updating the Flask app...
+2023-10-03 20:42:03,066 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024AE9001690>, 'Connection to 172.17.1.64 timed out. (connect timeout=None)'))
+2023-10-03 20:42:03,070 - ERROR - An error occurred: 'product_name'
+2023-10-03 20:42:03,071 - INFO - Updating the Flask app...
+2023-10-03 20:47:24,137 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024AE9080820>, 'Connection to 172.17.1.64 timed out. (connect timeout=None)'))
+2023-10-03 20:47:24,144 - ERROR - An error occurred: 'product_name'
+2023-10-03 20:47:24,144 - INFO - Updating the Flask app...
+2023-10-03 20:52:45,198 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024AE9003880>, 'Connection to 172.17.1.64 timed out. (connect timeout=None)'))
+2023-10-03 20:52:45,203 - ERROR - An error occurred: 'product_name'
+2023-10-03 20:52:45,203 - INFO - Updating the Flask app...
+2023-10-03 20:58:06,250 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024AE90032B0>, 'Connection to 172.17.1.64 timed out. (connect timeout=None)'))
+2023-10-03 20:58:06,255 - ERROR - An error occurred: 'product_name'
+2023-10-03 20:58:06,255 - INFO - Updating the Flask app...
+2023-10-03 21:03:27,306 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024AE90026E0>, 'Connection to 172.17.1.64 timed out. (connect timeout=None)'))
+2023-10-03 21:03:27,309 - ERROR - An error occurred: 'product_name'
+2023-10-03 21:03:27,309 - INFO - Updating the Flask app...
+2023-10-03 21:08:48,363 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024AE90020E0>, 'Connection to 172.17.1.64 timed out. (connect timeout=None)'))
+2023-10-03 21:08:48,367 - ERROR - An error occurred: 'product_name'
+2023-10-03 21:08:48,367 - INFO - Updating the Flask app...
+2023-10-03 21:14:09,415 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024AE9080B20>, 'Connection to 172.17.1.64 timed out. (connect timeout=None)'))
+2023-10-03 21:14:09,421 - ERROR - An error occurred: 'product_name'
+2023-10-03 21:14:09,422 - INFO - Updating the Flask app...
+2023-10-03 21:19:30,474 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024AE45F3400>, 'Connection to 172.17.1.64 timed out. (connect timeout=None)'))
+2023-10-03 21:19:30,480 - ERROR - An error occurred: 'product_name'
+2023-10-03 21:19:30,480 - INFO - Updating the Flask app...
+2023-10-03 21:24:30,488 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024AE9002B30>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2023-10-03 21:24:30,492 - ERROR - An error occurred: 'product_name'
+2023-10-03 21:24:30,492 - INFO - Updating the Flask app...
+2023-10-04 09:40:24,541 - INFO - Data collected from page 1
+2023-10-04 09:40:27,780 - INFO - Data collected from page 2
+2023-10-04 09:40:30,392 - INFO - Data collected from page 3
+2023-10-04 09:40:34,463 - INFO - Data collected from page 4
+2023-10-04 09:40:35,070 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-10-04 09:40:37,468 - INFO - Data processing and model retraining completed.
+2023-10-04 09:40:37,469 - INFO - Updating the Flask app...
+2023-10-04 09:45:39,241 - INFO - Data collected from page 1
+2023-10-04 09:45:40,316 - INFO - Data collected from page 2
+2023-10-04 09:45:41,396 - INFO - Data collected from page 3
+2023-10-04 09:45:49,198 - INFO - Data collected from page 4
+2023-10-04 09:45:50,289 - INFO - Data collected from page 5
+2023-10-04 09:45:50,752 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=6
+2023-10-04 09:45:53,679 - INFO - Data processing and model retraining completed.
+2023-10-04 09:45:53,679 - INFO - Updating the Flask app...
+2023-10-04 09:50:55,450 - INFO - Data collected from page 1
+2023-10-04 09:50:56,562 - INFO - Data collected from page 2
+2023-10-04 09:50:57,637 - INFO - Data collected from page 3
+2023-10-04 09:51:06,203 - INFO - Data collected from page 4
+2023-10-04 09:51:07,399 - INFO - Data collected from page 5
+2023-10-04 09:51:07,987 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=6
+2023-10-04 09:51:10,867 - INFO - Data processing and model retraining completed.
+2023-10-04 09:51:10,867 - INFO - Updating the Flask app...
+2023-10-04 09:56:12,605 - INFO - Data collected from page 1
+2023-10-04 09:56:13,792 - INFO - Data collected from page 2
+2023-10-04 09:56:14,981 - INFO - Data collected from page 3
+2023-10-04 09:56:22,529 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-10-04 09:56:24,233 - INFO - Data processing and model retraining completed.
+2023-10-04 09:56:24,233 - INFO - Updating the Flask app...
+2023-10-04 10:01:26,331 - INFO - Data collected from page 1
+2023-10-04 10:01:28,215 - INFO - Data collected from page 2
+2023-10-04 10:01:31,075 - INFO - Data collected from page 3
+2023-10-04 10:01:35,830 - INFO - Data collected from page 4
+2023-10-04 10:01:36,668 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-10-04 10:01:38,773 - INFO - Data processing and model retraining completed.
+2023-10-04 10:01:38,773 - INFO - Updating the Flask app...
+2023-10-04 10:06:40,345 - INFO - Data collected from page 1
+2023-10-04 10:06:41,557 - INFO - Data collected from page 2
+2023-10-04 10:06:42,745 - INFO - Data collected from page 3
+2023-10-04 10:06:50,496 - INFO - Data collected from page 4
+2023-10-04 10:06:51,008 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-10-04 10:06:53,213 - INFO - Data processing and model retraining completed.
+2023-10-04 10:06:53,215 - INFO - Updating the Flask app...
+2023-10-04 10:11:54,808 - INFO - Data collected from page 1
+2023-10-04 10:11:55,896 - INFO - Data collected from page 2
+2023-10-04 10:11:57,091 - INFO - Data collected from page 3
+2023-10-04 10:12:04,921 - INFO - Data collected from page 4
+2023-10-04 10:12:05,640 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-10-04 10:12:07,884 - INFO - Data processing and model retraining completed.
+2023-10-04 10:12:07,885 - INFO - Updating the Flask app...
+2023-10-04 10:17:09,507 - INFO - Data collected from page 1
+2023-10-04 10:17:10,634 - INFO - Data collected from page 2
+2023-10-04 10:17:11,760 - INFO - Data collected from page 3
+2023-10-04 10:17:19,812 - INFO - Data collected from page 4
+2023-10-04 10:17:20,982 - INFO - Data collected from page 5
+2023-10-04 10:17:21,653 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=6
+2023-10-04 10:17:24,444 - INFO - Data processing and model retraining completed.
+2023-10-04 10:17:24,445 - INFO - Updating the Flask app...
+2023-10-04 10:22:26,284 - INFO - Data collected from page 1
+2023-10-04 10:22:27,440 - INFO - Data collected from page 2
+2023-10-04 10:22:28,607 - INFO - Data collected from page 3
+2023-10-04 10:22:36,384 - INFO - Data collected from page 4
+2023-10-04 10:22:37,526 - INFO - Data collected from page 5
+2023-10-04 10:22:38,183 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=6
+2023-10-04 10:22:41,158 - INFO - Data processing and model retraining completed.
+2023-10-04 10:22:41,159 - INFO - Updating the Flask app...
+2023-10-04 10:27:42,864 - INFO - Data collected from page 1
+2023-10-04 10:27:43,992 - INFO - Data collected from page 2
+2023-10-04 10:27:45,093 - INFO - Data collected from page 3
+2023-10-04 10:27:53,434 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-10-04 10:27:55,095 - INFO - Data processing and model retraining completed.
+2023-10-04 10:27:55,095 - INFO - Updating the Flask app...
+2023-10-04 10:32:56,942 - INFO - Data collected from page 1
+2023-10-04 10:32:58,060 - INFO - Data collected from page 2
+2023-10-04 10:32:59,153 - INFO - Data collected from page 3
+2023-10-04 10:33:07,574 - INFO - Data collected from page 4
+2023-10-04 10:33:08,718 - INFO - Data collected from page 5
+2023-10-04 10:33:09,334 - INFO - Data collected from page 6
+2023-10-04 10:33:12,532 - INFO - Data processing and model retraining completed.
+2023-10-04 10:33:12,532 - INFO - Updating the Flask app...
+2023-10-04 10:38:14,323 - INFO - Data collected from page 1
+2023-10-04 10:38:15,520 - INFO - Data collected from page 2
+2023-10-04 10:38:16,641 - INFO - Data collected from page 3
+2023-10-04 10:38:24,407 - INFO - Data collected from page 4
+2023-10-04 10:38:25,012 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-10-04 10:38:27,252 - INFO - Data processing and model retraining completed.
+2023-10-04 10:38:27,252 - INFO - Updating the Flask app...
+2023-10-04 10:43:29,104 - INFO - Data collected from page 1
+2023-10-04 10:43:30,185 - INFO - Data collected from page 2
+2023-10-04 10:43:31,329 - INFO - Data collected from page 3
+2023-10-04 10:43:38,961 - INFO - Data collected from page 4
+2023-10-04 10:43:40,100 - INFO - Data collected from page 5
+2023-10-04 10:43:40,711 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=6
+2023-10-04 10:43:43,469 - INFO - Data processing and model retraining completed.
+2023-10-04 10:43:43,470 - INFO - Updating the Flask app...
+2023-10-04 10:48:45,299 - INFO - Data collected from page 1
+2023-10-04 10:48:46,392 - INFO - Data collected from page 2
+2023-10-04 10:48:47,616 - INFO - Data collected from page 3
+2023-10-04 10:48:55,201 - INFO - Data collected from page 4
+2023-10-04 10:48:56,015 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-10-04 10:48:58,372 - INFO - Data processing and model retraining completed.
+2023-10-04 10:48:58,372 - INFO - Updating the Flask app...
+2023-10-04 10:50:02,273 - INFO - 127.0.0.1 - - [04/Oct/2023 10:50:02] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-04 10:50:04,858 - INFO - 127.0.0.1 - - [04/Oct/2023 10:50:04] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-04 10:50:13,386 - INFO - 127.0.0.1 - - [04/Oct/2023 10:50:13] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-04 10:50:17,838 - INFO - 127.0.0.1 - - [04/Oct/2023 10:50:17] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-04 11:22:27,714 - INFO - Data collected from page 1
+2023-10-04 11:22:28,789 - INFO - Data collected from page 2
+2023-10-04 11:22:29,927 - INFO - Data collected from page 3
+2023-10-04 11:22:38,025 - INFO - Data collected from page 4
+2023-10-04 11:22:39,139 - INFO - Data collected from page 5
+2023-10-04 11:22:39,784 - INFO - Data collected from page 6
+2023-10-04 11:22:40,380 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-04 11:22:40,380 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-04 11:22:47,472 - INFO - Data collected from page 1
+2023-10-04 11:22:48,561 - INFO - Data collected from page 2
+2023-10-04 11:22:49,462 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=3
+2023-10-04 11:22:51,022 - INFO - Data processing and model retraining completed.
+2023-10-04 11:22:51,022 - INFO - Updating the Flask app...
+2023-10-04 11:27:52,573 - INFO - Data collected from page 1
+2023-10-04 11:27:53,709 - INFO - Data collected from page 2
+2023-10-04 11:27:54,804 - INFO - Data collected from page 3
+2023-10-04 11:28:02,453 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-10-04 11:28:03,956 - INFO - Data processing and model retraining completed.
+2023-10-04 11:28:03,956 - INFO - Updating the Flask app...
+2023-10-04 11:34:25,679 - INFO - Data processing and model retraining completed.
+2023-10-04 11:35:19,570 - INFO - Data collected from page 1
+2023-10-04 11:35:20,732 - INFO - Data collected from page 2
+2023-10-04 11:35:21,833 - INFO - Data collected from page 3
+2023-10-04 11:35:29,653 - INFO - Data collected from page 4
+2023-10-04 11:35:30,784 - INFO - Data collected from page 5
+2023-10-04 11:35:31,362 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=6
+2023-10-04 11:35:31,578 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-04 11:35:31,578 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-04 11:35:31,937 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=1
+2023-10-04 11:35:31,941 - ERROR - An error occurred: 'product_name'
+2023-10-04 11:35:31,941 - INFO - Updating the Flask app...
+2023-10-04 11:40:33,792 - INFO - Data collected from page 1
+2023-10-04 11:40:34,947 - INFO - Data collected from page 2
+2023-10-04 11:40:36,064 - INFO - Data collected from page 3
+2023-10-04 11:40:43,814 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-10-04 11:40:46,749 - INFO - Data processing and model retraining completed.
+2023-10-04 11:40:46,749 - INFO - Updating the Flask app...
+2023-10-04 20:29:57,840 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029DF531AE48>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+2023-10-04 20:33:49,011 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018671D9AC88>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+2023-10-04 20:36:13,287 - ERROR - An error occurred: 'searchInfo'
+2023-10-04 20:37:12,503 - ERROR - An error occurred: 'searchInfo'
+2023-10-04 20:37:33,646 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D9281CED88>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+2023-10-04 20:38:43,197 - ERROR - An error occurred: 'product_name'
+2023-10-04 20:40:04,497 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\../logs\\collected_data.json'
+2023-10-04 20:41:30,616 - ERROR - An error occurred: 'searchInfo'
+2023-10-04 20:41:52,729 - ERROR - An error occurred: 'searchInfo'
+2023-10-04 20:42:23,927 - ERROR - An error occurred: 'searchInfo'
+2023-10-04 20:50:55,233 - ERROR - An error occurred: 'searchInfo'
+2023-10-04 20:51:19,022 - ERROR - An error occurred: 'searchInfo'
+2023-10-04 20:52:51,779 - ERROR - An error occurred: Extra data: line 17 column 9 (char 1374)
+2023-10-04 21:02:25,085 - INFO - Data processing and model retraining completed.
+2023-10-04 21:03:44,276 - ERROR - An error occurred: list indices must be integers or slices, not str
+2023-10-04 21:04:40,195 - INFO - Data processing and model retraining completed.
+2023-10-04 21:05:01,473 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C6EC645EC8>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+2023-10-04 21:05:01,864 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-04 21:05:01,864 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-05 09:43:32,072 - INFO - Data processing and model retraining completed.
+2023-10-05 09:43:34,194 - INFO - Data collected from page 1
+2023-10-05 09:43:35,423 - INFO - Data collected from page 2
+2023-10-05 09:43:36,506 - INFO - Data collected from page 3
+2023-10-05 09:43:44,511 - INFO - Data collected from page 4
+2023-10-05 09:43:45,272 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-10-05 09:43:45,734 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-05 09:43:45,735 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-05 09:43:46,156 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=1
+2023-10-05 09:43:49,857 - INFO - Data processing and model retraining completed.
+2023-10-05 09:43:49,857 - INFO - Updating the Flask app...
+2023-10-05 10:53:31,835 - INFO - Data collected from page 1
+2023-10-05 10:53:32,963 - INFO - Data collected from page 2
+2023-10-05 10:53:34,108 - INFO - Data collected from page 3
+2023-10-05 10:53:42,952 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-10-05 10:55:28,937 - INFO - Data collected from page 1
+2023-10-05 10:57:09,034 - INFO - Data collected from page 1
+2023-10-05 10:57:10,225 - INFO - Data collected from page 2
+2023-10-05 10:57:11,414 - INFO - Data collected from page 3
+2023-10-05 10:57:19,111 - INFO - Data collected from page 4
+2023-10-05 10:57:20,358 - INFO - Data collected from page 5
+2023-10-05 10:57:20,930 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=6
+2023-10-05 10:59:39,286 - INFO - Data collected from page 1
+2023-10-05 10:59:40,455 - INFO - Data collected from page 2
+2023-10-05 10:59:41,571 - INFO - Data collected from page 3
+2023-10-05 10:59:49,413 - INFO - Data collected from page 4
+2023-10-05 10:59:50,204 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-10-05 15:15:39,210 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:15:40,768 - INFO - Data collected from page 1
+2023-10-05 15:15:41,922 - INFO - Data collected from page 2
+2023-10-05 15:15:43,082 - INFO - Data collected from page 3
+2023-10-05 15:15:50,417 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-10-05 15:15:50,822 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-05 15:15:50,822 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-05 15:15:51,208 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=1
+2023-10-05 15:15:51,211 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:15:51,211 - INFO - Updating the Flask app...
+2023-10-05 15:20:29,175 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:20:30,966 - INFO - Data collected from page 1
+2023-10-05 15:20:32,482 - INFO - Data collected from page 2
+2023-10-05 15:20:33,958 - INFO - Data collected from page 3
+2023-10-05 15:20:57,022 - INFO - Data collected from page 4
+2023-10-05 15:21:35,297 - INFO - Data collected from page 5
+2023-10-05 15:21:36,295 - INFO - Data collected from page 6
+2023-10-05 15:21:37,266 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-05 15:21:37,266 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-05 15:21:38,412 - INFO - Data collected from page 1
+2023-10-05 15:21:43,044 - INFO - Data collected from page 2
+2023-10-05 15:21:45,270 - INFO - Data collected from page 3
+2023-10-05 15:21:46,467 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-10-05 15:21:46,477 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:21:46,477 - INFO - Updating the Flask app...
+2023-10-05 15:24:19,983 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:24:22,267 - INFO - Data collected from page 1
+2023-10-05 15:24:24,543 - INFO - Data collected from page 2
+2023-10-05 15:24:26,809 - INFO - Data collected from page 3
+2023-10-05 15:24:31,858 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=4
+2023-10-05 15:24:32,166 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-05 15:24:32,167 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-05 15:24:32,528 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=1
+2023-10-05 15:24:32,529 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:24:32,529 - INFO - Updating the Flask app...
+2023-10-05 15:25:14,558 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:25:16,096 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=1
+2023-10-05 15:25:16,360 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-05 15:25:16,360 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-05 15:25:17,735 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=1
+2023-10-05 15:25:17,737 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:25:17,737 - INFO - Updating the Flask app...
+2023-10-05 15:25:35,152 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:25:37,799 - INFO - Data collected from page 1
+2023-10-05 15:25:40,105 - INFO - Data collected from page 2
+2023-10-05 15:25:42,412 - INFO - Data collected from page 3
+2023-10-05 15:25:47,483 - INFO - Data collected from page 4
+2023-10-05 15:25:49,483 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=5
+2023-10-05 15:25:49,739 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-05 15:25:49,739 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-05 15:25:51,110 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=1
+2023-10-05 15:25:51,112 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:25:51,112 - INFO - Updating the Flask app...
+2023-10-05 15:26:16,674 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:26:21,246 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=1
+2023-10-05 15:26:21,491 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-05 15:26:21,491 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-05 15:26:25,903 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=1
+2023-10-05 15:26:25,905 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:26:25,905 - INFO - Updating the Flask app...
+2023-10-05 15:26:54,450 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:27:00,722 - INFO - Data collected from page 1
+2023-10-05 15:27:06,026 - INFO - Data collected from page 2
+2023-10-05 15:27:11,566 - INFO - Data collected from page 3
+2023-10-05 15:27:16,771 - INFO - Data collected from page 4
+2023-10-05 15:27:22,082 - INFO - Data collected from page 5
+2023-10-05 15:27:27,213 - INFO - Data collected from page 6
+2023-10-05 15:27:31,841 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-05 15:27:31,841 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-05 15:27:37,212 - INFO - Data collected from page 1
+2023-10-05 15:27:42,403 - INFO - Data collected from page 2
+2023-10-05 15:27:47,719 - INFO - Data collected from page 3
+2023-10-05 15:27:53,083 - INFO - Data collected from page 4
+2023-10-05 15:27:58,388 - INFO - Data collected from page 5
+2023-10-05 15:28:03,405 - INFO - Data collected from page 6
+2023-10-05 15:28:07,762 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:28:07,762 - INFO - Updating the Flask app...
+2023-10-05 15:32:09,170 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:32:10,927 - INFO - Data collected from page 1
+2023-10-05 15:32:17,064 - INFO - Data collected from page 2
+2023-10-05 15:32:23,500 - INFO - Data collected from page 3
+2023-10-05 15:32:29,916 - INFO - Data collected from page 4
+2023-10-05 15:32:36,048 - INFO - Data collected from page 5
+2023-10-05 15:32:42,047 - INFO - Data collected from page 6
+2023-10-05 15:32:47,662 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-05 15:32:47,662 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-05 15:32:48,818 - INFO - Data collected from page 1
+2023-10-05 15:32:55,169 - INFO - Data collected from page 2
+2023-10-05 15:33:01,383 - INFO - Data collected from page 3
+2023-10-05 15:33:07,542 - INFO - Data collected from page 4
+2023-10-05 15:33:13,735 - INFO - Data collected from page 5
+2023-10-05 15:33:19,624 - INFO - Data collected from page 6
+2023-10-05 15:33:24,978 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:33:24,978 - INFO - Updating the Flask app...
+2023-10-05 15:38:46,049 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028E734EA308>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+2023-10-05 15:38:46,058 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:38:46,059 - INFO - Updating the Flask app...
+2023-10-05 15:43:47,886 - INFO - Data collected from page 1
+2023-10-05 15:43:54,021 - INFO - Data collected from page 2
+2023-10-05 15:44:00,161 - INFO - Data collected from page 3
+2023-10-05 15:44:06,421 - INFO - Data collected from page 4
+2023-10-05 15:44:12,559 - INFO - Data collected from page 5
+2023-10-05 15:44:18,226 - INFO - Data collected from page 6
+2023-10-05 15:44:23,577 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:44:23,577 - INFO - Updating the Flask app...
+2023-10-05 15:49:25,241 - INFO - Data collected from page 1
+2023-10-05 15:49:31,647 - INFO - Data collected from page 2
+2023-10-05 15:49:37,791 - INFO - Data collected from page 3
+2023-10-05 15:49:43,942 - INFO - Data collected from page 4
+2023-10-05 15:49:50,023 - INFO - Data collected from page 5
+2023-10-05 15:49:55,648 - INFO - Data collected from page 6
+2023-10-05 15:50:00,997 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:50:00,998 - INFO - Updating the Flask app...
+2023-10-05 15:55:11,708 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\POC_WEB_3.0\\Development\\3.0.1\\training\\collected_data.json'
+2023-10-05 15:57:23,700 - INFO - Data processing and model retraining completed.
+2023-10-05 16:03:56,086 - INFO - Data processing and model retraining completed.
+2023-10-05 16:05:34,087 - INFO - Data processing and model retraining completed.
+2023-10-05 16:05:36,266 - INFO - Data collected from page 1
+2023-10-05 16:05:42,458 - INFO - Data collected from page 2
+2023-10-05 16:05:48,539 - INFO - Data collected from page 3
+2023-10-05 16:05:54,842 - INFO - Data collected from page 4
+2023-10-05 16:06:00,995 - INFO - Data collected from page 5
+2023-10-05 16:06:06,870 - INFO - Data collected from page 6
+2023-10-05 16:06:12,634 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-05 16:06:12,634 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-05 16:06:13,902 - INFO - Data collected from page 1
+2023-10-05 16:06:20,273 - INFO - Data collected from page 2
+2023-10-05 16:06:26,665 - INFO - Data collected from page 3
+2023-10-05 16:06:32,788 - INFO - Data collected from page 4
+2023-10-05 16:06:38,925 - INFO - Data collected from page 5
+2023-10-05 16:06:44,578 - INFO - Data collected from page 6
+2023-10-05 16:06:52,036 - INFO - Data processing and model retraining completed.
+2023-10-05 16:06:52,036 - INFO - Updating the Flask app...
+2023-10-06 15:03:23,623 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-06 15:03:23,665 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-06 15:03:23,676 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-06 15:03:26,375 - WARNING -  * Debugger is active!
+2023-10-06 15:03:26,381 - INFO -  * Debugger PIN: 723-088-456
+2023-10-06 15:03:38,213 - INFO - 127.0.0.1 - - [06/Oct/2023 15:03:38] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-06 15:04:06,105 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\schedule\\__init__.py', reloading
+2023-10-06 15:04:07,370 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-06 15:04:10,217 - WARNING -  * Debugger is active!
+2023-10-06 15:04:10,237 - INFO -  * Debugger PIN: 723-088-456
+2023-10-06 15:04:25,709 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-06 15:04:25,710 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-06 15:04:25,710 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-06 15:04:25,711 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-06 15:04:26,546 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-06 15:04:29,858 - WARNING -  * Debugger is active!
+2023-10-06 15:04:29,863 - INFO -  * Debugger PIN: 723-088-456
+2023-10-06 15:04:39,527 - INFO - 127.0.0.1 - - [06/Oct/2023 15:04:39] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-06 15:05:36,789 - INFO - 127.0.0.1 - - [06/Oct/2023 15:05:36] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-06 15:11:49,499 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-06 15:11:49,500 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-06 15:11:49,501 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-06 15:11:50,553 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-06 15:12:20,762 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-06 15:12:20,763 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-06 15:12:20,775 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-06 15:12:23,583 - WARNING -  * Debugger is active!
+2023-10-06 15:12:23,587 - INFO -  * Debugger PIN: 723-088-456
+2023-10-06 15:15:42,194 - INFO -  * Detected change in 'C:\\Program Files\\Python310\\Lib\\os.py', reloading
+2023-10-06 15:15:43,311 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-06 15:15:47,137 - WARNING -  * Debugger is active!
+2023-10-06 15:15:47,144 - INFO -  * Debugger PIN: 723-088-456
+2023-10-06 15:15:53,026 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-06 15:15:53,027 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-06 15:15:53,027 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-06 15:15:53,027 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-06 15:15:54,309 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-06 15:16:03,168 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-06 15:16:03,168 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-06 15:16:03,179 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-06 15:16:06,220 - WARNING -  * Debugger is active!
+2023-10-06 15:16:06,224 - INFO -  * Debugger PIN: 723-088-456
+2023-10-06 15:16:10,210 - INFO - 127.0.0.1 - - [06/Oct/2023 15:16:10] "[31m[1mGET /get_recommendations HTTP/1.1[0m" 405 -
+2023-10-06 15:16:26,454 - INFO - 127.0.0.1 - - [06/Oct/2023 15:16:26] "[31m[1mGET /get_recommendations HTTP/1.1[0m" 405 -
+2023-10-06 15:16:33,988 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-06 15:16:33,988 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-06 15:16:33,989 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-06 15:16:33,989 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-06 15:16:35,102 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-06 15:16:38,363 - WARNING -  * Debugger is active!
+2023-10-06 15:16:38,368 - INFO -  * Debugger PIN: 723-088-456
+2023-10-06 15:16:59,055 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-06 15:16:59,055 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-06 15:16:59,070 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-06 15:17:02,419 - WARNING -  * Debugger is active!
+2023-10-06 15:17:02,431 - INFO -  * Debugger PIN: 723-088-456
+2023-10-06 15:17:06,359 - INFO - Data processing and model retraining completed.
+2023-10-06 15:17:08,058 - INFO - Data collected from page 1
+2023-10-06 15:17:14,216 - INFO - Data collected from page 2
+2023-10-06 15:17:53,251 - INFO - Data collected from page 3
+2023-10-06 15:17:59,465 - INFO - Data collected from page 4
+2023-10-06 15:18:05,719 - INFO - Data collected from page 5
+2023-10-06 15:18:11,401 - INFO - Data collected from page 6
+2023-10-06 15:18:16,910 - INFO - 127.0.0.1 - - [06/Oct/2023 15:18:16] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-06 15:18:53,281 - INFO - Data processing and model retraining completed.
+2023-10-06 15:18:54,332 - INFO - Data collected from page 1
+2023-10-06 15:19:00,868 - INFO - Data collected from page 2
+2023-10-06 15:19:07,252 - INFO - Data collected from page 3
+2023-10-06 15:19:13,534 - INFO - Data collected from page 4
+2023-10-06 15:19:20,467 - INFO - Data collected from page 5
+2023-10-06 15:19:59,449 - INFO - Data processing and model retraining completed.
+2023-10-06 15:20:01,170 - INFO - Data collected from page 1
+2023-10-06 15:20:07,392 - INFO - Data collected from page 2
+2023-10-06 15:20:13,630 - INFO - Data collected from page 3
+2023-10-06 15:20:20,060 - INFO - Data collected from page 4
+2023-10-06 15:20:26,190 - INFO - Data collected from page 5
+2023-10-06 15:20:31,818 - INFO - Data collected from page 6
+2023-10-06 15:20:37,199 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-06 15:20:37,199 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-06 15:20:37,216 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-06 15:20:44,808 - INFO - Data processing and model retraining completed.
+2023-10-06 15:20:45,876 - INFO - Data collected from page 1
+2023-10-06 15:20:52,050 - INFO - Data collected from page 2
+2023-10-06 15:53:51,218 - INFO - Running data collection...
+2023-10-06 15:53:52,838 - INFO - Data collected from page 1
+2023-10-06 15:53:59,860 - INFO - Data collected from page 2
+2023-10-06 15:54:06,306 - INFO - Data collected from page 3
+2023-10-06 15:54:12,445 - INFO - Data collected from page 4
+2023-10-06 15:54:18,559 - INFO - Data collected from page 5
+2023-10-06 15:54:24,218 - INFO - Data collected from page 6
+2023-10-06 15:54:29,581 - INFO - Running data processing...
+2023-10-06 15:54:33,998 - INFO - Data processing and model retraining completed.
+2023-10-06 15:59:34,797 - INFO - Running data collection...
+2023-10-06 15:59:36,445 - INFO - Data collected from page 1
+2023-10-06 15:59:42,829 - INFO - Data collected from page 2
+2023-10-06 15:59:49,253 - INFO - Data collected from page 3
+2023-10-06 15:59:55,636 - INFO - Data collected from page 4
+2023-10-06 16:00:02,078 - INFO - Data collected from page 5
+2023-10-06 16:00:07,730 - INFO - Data collected from page 6
+2023-10-06 16:00:13,099 - INFO - Running data processing...
+2023-10-06 16:00:15,004 - INFO - Data processing and model retraining completed.
+2023-10-06 16:12:31,039 - INFO - Running data collection...
+2023-10-06 16:12:32,788 - INFO - Data collected from page 1
+2023-10-06 16:12:38,945 - INFO - Data collected from page 2
+2023-10-06 16:12:45,146 - INFO - Data collected from page 3
+2023-10-06 16:12:51,321 - INFO - Data collected from page 4
+2023-10-06 16:12:57,705 - INFO - Data collected from page 5
+2023-10-06 16:13:03,361 - INFO - Data collected from page 6
+2023-10-06 16:13:08,729 - INFO - Running data processing...
+2023-10-06 16:13:11,589 - INFO - Data processing and model retraining completed.
+2023-10-13 12:44:12,636 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-13 12:44:12,676 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-13 12:44:12,698 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 12:44:15,606 - WARNING -  * Debugger is active!
+2023-10-13 12:44:15,610 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 12:44:28,281 - INFO - 127.0.0.1 - - [13/Oct/2023 12:44:28] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 12:44:35,815 - INFO - 127.0.0.1 - - [13/Oct/2023 12:44:35] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 12:45:52,965 - INFO - 127.0.0.1 - - [13/Oct/2023 12:45:52] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 12:46:53,690 - INFO - 127.0.0.1 - - [13/Oct/2023 12:46:53] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 12:51:38,835 - INFO - 127.0.0.1 - - [13/Oct/2023 12:51:38] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 12:52:16,829 - INFO - 127.0.0.1 - - [13/Oct/2023 12:52:16] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 12:52:41,875 - INFO - 127.0.0.1 - - [13/Oct/2023 12:52:41] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 12:53:13,232 - INFO - 127.0.0.1 - - [13/Oct/2023 12:53:13] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 12:53:20,792 - INFO - 127.0.0.1 - - [13/Oct/2023 12:53:20] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 12:53:29,608 - INFO - 127.0.0.1 - - [13/Oct/2023 12:53:29] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 12:55:02,754 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\numpy\\_typing\\_generic_alias.py', reloading
+2023-10-13 12:55:04,136 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 12:55:07,065 - WARNING -  * Debugger is active!
+2023-10-13 12:55:07,069 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 12:55:52,131 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 12:55:52,132 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 12:55:52,132 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 12:55:52,917 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 12:56:01,191 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-13 12:56:01,191 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-13 12:56:01,203 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 12:56:06,116 - WARNING -  * Debugger is active!
+2023-10-13 12:56:06,124 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 12:56:06,415 - INFO - 127.0.0.1 - - [13/Oct/2023 12:56:06] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 12:57:10,549 - INFO - 127.0.0.1 - - [13/Oct/2023 12:57:10] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 12:57:47,904 - INFO - 127.0.0.1 - - [13/Oct/2023 12:57:47] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 12:59:20,636 - INFO - 127.0.0.1 - - [13/Oct/2023 12:59:20] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 13:01:52,200 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 13:01:52,201 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 13:01:52,202 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 13:01:52,202 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 13:01:52,926 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 13:01:53,310 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 13:02:04,977 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-13 13:02:04,977 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-13 13:02:04,994 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 13:02:08,226 - WARNING -  * Debugger is active!
+2023-10-13 13:02:08,234 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 13:02:09,570 - INFO - 127.0.0.1 - - [13/Oct/2023 13:02:09] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 13:13:34,525 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\Crypto\\SelfTest\\Hash\\test_MD4.py', reloading
+2023-10-13 13:13:35,342 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 13:13:43,466 - WARNING -  * Debugger is active!
+2023-10-13 13:13:43,476 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:00:21,849 - INFO - 127.0.0.1 - - [13/Oct/2023 14:00:21] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:00:24,036 - INFO - 127.0.0.1 - - [13/Oct/2023 14:00:24] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:00:49,300 - INFO - 127.0.0.1 - - [13/Oct/2023 14:00:49] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:01:17,264 - INFO - 127.0.0.1 - - [13/Oct/2023 14:01:17] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:03:05,839 - INFO - 127.0.0.1 - - [13/Oct/2023 14:03:05] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:04:01,534 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:04:01,535 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:04:01,536 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:04:02,031 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:04:02,915 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:04:08,039 - WARNING -  * Debugger is active!
+2023-10-13 14:04:08,045 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:04:08,716 - INFO - 127.0.0.1 - - [13/Oct/2023 14:04:08] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:05:45,205 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\__init__.py', reloading
+2023-10-13 14:05:45,317 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\collocations.py', reloading
+2023-10-13 14:05:45,343 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\featstruct.py', reloading
+2023-10-13 14:05:45,433 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\grammar.py', reloading
+2023-10-13 14:05:45,467 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\probability.py', reloading
+2023-10-13 14:05:45,515 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\text.py', reloading
+2023-10-13 14:05:45,544 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\util.py', reloading
+2023-10-13 14:05:45,594 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\collections.py', reloading
+2023-10-13 14:05:45,614 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\jsontags.py', reloading
+2023-10-13 14:05:45,635 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\chunk\\__init__.py', reloading
+2023-10-13 14:05:45,650 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\classify\\__init__.py', reloading
+2023-10-13 14:05:45,665 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\inference\\__init__.py', reloading
+2023-10-13 14:05:45,678 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\metrics\\__init__.py', reloading
+2023-10-13 14:05:45,693 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\parse\\__init__.py', reloading
+2023-10-13 14:05:45,712 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\tag\\__init__.py', reloading
+2023-10-13 14:05:45,742 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\tokenize\\__init__.py', reloading
+2023-10-13 14:05:45,766 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\translate\\__init__.py', reloading
+2023-10-13 14:05:45,787 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\tree\\__init__.py', reloading
+2023-10-13 14:05:45,803 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\sem\\__init__.py', reloading
+2023-10-13 14:05:45,820 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\stem\\__init__.py', reloading
+2023-10-13 14:05:46,382 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:05:49,369 - WARNING -  * Debugger is active!
+2023-10-13 14:05:49,375 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:06:27,550 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\__init__.py', reloading
+2023-10-13 14:06:27,578 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\__init__.py', reloading
+2023-10-13 14:06:27,614 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\plaintext.py', reloading
+2023-10-13 14:06:27,626 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\api.py', reloading
+2023-10-13 14:06:27,639 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\util.py', reloading
+2023-10-13 14:06:27,681 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\tagged.py', reloading
+2023-10-13 14:06:27,693 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\cmudict.py', reloading
+2023-10-13 14:06:27,708 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\conll.py', reloading
+2023-10-13 14:06:27,727 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\chunked.py', reloading
+2023-10-13 14:06:27,739 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\wordlist.py', reloading
+2023-10-13 14:06:27,753 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\xmldocs.py', reloading
+2023-10-13 14:06:27,765 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\ppattach.py', reloading
+2023-10-13 14:06:27,776 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\senseval.py', reloading
+2023-10-13 14:06:27,788 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\ieer.py', reloading
+2023-10-13 14:06:27,799 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\sinica_treebank.py', reloading
+2023-10-13 14:06:27,814 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\bracket_parse.py', reloading
+2023-10-13 14:06:27,827 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\indian.py', reloading
+2023-10-13 14:06:27,840 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\toolbox.py', reloading
+2023-10-13 14:06:27,853 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\timit.py', reloading
+2023-10-13 14:06:27,873 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\ycoe.py', reloading
+2023-10-13 14:06:27,888 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\rte.py', reloading
+2023-10-13 14:06:27,898 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\string_category.py', reloading
+2023-10-13 14:06:27,910 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\propbank.py', reloading
+2023-10-13 14:06:27,928 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\verbnet.py', reloading
+2023-10-13 14:06:27,945 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\bnc.py', reloading
+2023-10-13 14:06:27,956 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\nps_chat.py', reloading
+2023-10-13 14:06:27,971 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\wordnet.py', reloading
+2023-10-13 14:06:27,996 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\switchboard.py', reloading
+2023-10-13 14:06:28,008 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\dependency.py', reloading
+2023-10-13 14:06:28,020 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\nombank.py', reloading
+2023-10-13 14:06:28,035 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\ipipan.py', reloading
+2023-10-13 14:06:28,048 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\pl196x.py', reloading
+2023-10-13 14:06:28,061 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\knbc.py', reloading
+2023-10-13 14:06:28,074 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\chasen.py', reloading
+2023-10-13 14:06:28,089 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\childes.py', reloading
+2023-10-13 14:06:28,110 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\aligned.py', reloading
+2023-10-13 14:06:28,120 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\lin.py', reloading
+2023-10-13 14:06:28,130 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\semcor.py', reloading
+2023-10-13 14:06:28,149 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\framenet.py', reloading
+2023-10-13 14:06:28,209 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\udhr.py', reloading
+2023-10-13 14:06:28,223 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\sentiwordnet.py', reloading
+2023-10-13 14:06:28,240 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\twitter.py', reloading
+2023-10-13 14:06:28,258 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\nkjp.py', reloading
+2023-10-13 14:06:28,298 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\crubadan.py', reloading
+2023-10-13 14:06:28,314 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\mte.py', reloading
+2023-10-13 14:06:28,326 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\reviews.py', reloading
+2023-10-13 14:06:28,340 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\opinion_lexicon.py', reloading
+2023-10-13 14:06:28,353 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\pros_cons.py', reloading
+2023-10-13 14:06:28,365 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\categorized_sents.py', reloading
+2023-10-13 14:06:28,377 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\comparative_sents.py', reloading
+2023-10-13 14:06:28,395 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\panlex_lite.py', reloading
+2023-10-13 14:06:28,419 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\reader\\panlex_swadesh.py', reloading
+2023-10-13 14:06:28,775 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:06:31,929 - WARNING -  * Debugger is active!
+2023-10-13 14:06:31,934 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:06:51,238 - INFO -  * Detected change in 'C:\\Program Files\\Python310\\Lib\\re.py', reloading
+2023-10-13 14:06:52,628 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:06:55,695 - WARNING -  * Debugger is active!
+2023-10-13 14:06:55,700 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:07:25,849 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\corpus\\util.py', reloading
+2023-10-13 14:07:25,883 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\data.py', reloading
+2023-10-13 14:07:25,988 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\tokenize\\destructive.py', reloading
+2023-10-13 14:07:26,004 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\tokenize\\api.py', reloading
+2023-10-13 14:07:26,080 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\compat.py', reloading
+2023-10-13 14:07:27,067 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:07:30,703 - WARNING -  * Debugger is active!
+2023-10-13 14:07:30,707 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:07:50,248 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:07:50,249 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:07:50,249 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:07:50,249 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:07:50,420 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:07:51,103 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:07:54,105 - WARNING -  * Debugger is active!
+2023-10-13 14:07:54,111 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:08:01,061 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\nltk\\sem\\evaluate.py', reloading
+2023-10-13 14:08:01,434 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:08:04,574 - WARNING -  * Debugger is active!
+2023-10-13 14:08:04,578 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:08:14,197 - INFO - 127.0.0.1 - - [13/Oct/2023 14:08:14] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:08:33,284 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:08:33,285 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:08:33,285 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:08:33,286 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:08:33,925 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:08:34,472 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:08:37,544 - WARNING -  * Debugger is active!
+2023-10-13 14:08:37,548 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:08:43,297 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-13 14:08:43,297 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-13 14:08:43,311 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:08:47,062 - WARNING -  * Debugger is active!
+2023-10-13 14:08:47,069 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:08:48,256 - INFO - 127.0.0.1 - - [13/Oct/2023 14:08:48] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:09:50,103 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:09:50,103 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:09:50,104 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:09:50,105 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:09:50,623 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:09:51,233 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:09:54,866 - WARNING -  * Debugger is active!
+2023-10-13 14:09:54,878 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:09:56,609 - INFO - 127.0.0.1 - - [13/Oct/2023 14:09:56] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:13:04,896 - INFO - 127.0.0.1 - - [13/Oct/2023 14:13:04] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:13:54,122 - INFO - 127.0.0.1 - - [13/Oct/2023 14:13:54] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:14:13,193 - INFO - 127.0.0.1 - - [13/Oct/2023 14:14:13] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:14:51,868 - INFO - 127.0.0.1 - - [13/Oct/2023 14:14:51] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:15:34,465 - INFO - 127.0.0.1 - - [13/Oct/2023 14:15:34] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:15:53,943 - INFO - 127.0.0.1 - - [13/Oct/2023 14:15:53] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:16:03,833 - INFO - 127.0.0.1 - - [13/Oct/2023 14:16:03] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:17:45,771 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\pip\\_vendor\\pyparsing\\core.py', reloading
+2023-10-13 14:17:46,026 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\pip\\_vendor\\packaging\\markers.py', reloading
+2023-10-13 14:17:47,379 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:17:57,719 - WARNING -  * Debugger is active!
+2023-10-13 14:17:57,732 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:22:05,039 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\sklearn\\metrics\\pairwise.py', reloading
+2023-10-13 14:22:05,717 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:22:08,785 - WARNING -  * Debugger is active!
+2023-10-13 14:22:08,789 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:22:12,986 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:22:12,987 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:22:12,987 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:22:12,987 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:22:13,552 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:22:17,123 - WARNING -  * Debugger is active!
+2023-10-13 14:22:17,137 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:22:22,568 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\flask\\app.py', reloading
+2023-10-13 14:22:22,588 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\sklearn\\utils\\validation.py', reloading
+2023-10-13 14:22:22,601 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\sklearn\\utils\\_array_api.py', reloading
+2023-10-13 14:22:22,624 - INFO - 127.0.0.1 - - [13/Oct/2023 14:22:22] "[35m[1mGET /get_recommendations HTTP/1.1[0m" 500 -
+2023-10-13 14:22:25,103 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:22:30,219 - WARNING -  * Debugger is active!
+2023-10-13 14:22:30,225 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:28:35,533 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:28:35,533 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:28:35,534 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:28:35,534 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:28:36,341 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:28:39,971 - WARNING -  * Debugger is active!
+2023-10-13 14:28:39,975 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:28:41,290 - INFO - 127.0.0.1 - - [13/Oct/2023 14:28:41] "[35m[1mGET /get_recommendations HTTP/1.1[0m" 500 -
+2023-10-13 14:28:51,531 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:28:51,532 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:28:51,532 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:28:51,619 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:28:52,879 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:28:56,355 - WARNING -  * Debugger is active!
+2023-10-13 14:28:56,360 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:28:57,512 - INFO - 127.0.0.1 - - [13/Oct/2023 14:28:57] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:29:25,789 - INFO - 127.0.0.1 - - [13/Oct/2023 14:29:25] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:29:56,596 - INFO - 127.0.0.1 - - [13/Oct/2023 14:29:56] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:30:16,273 - INFO - 127.0.0.1 - - [13/Oct/2023 14:30:16] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:30:32,438 - INFO - 127.0.0.1 - - [13/Oct/2023 14:30:32] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:30:46,687 - INFO - 127.0.0.1 - - [13/Oct/2023 14:30:46] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:31:54,345 - INFO - 127.0.0.1 - - [13/Oct/2023 14:31:54] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:32:49,293 - INFO - 127.0.0.1 - - [13/Oct/2023 14:32:49] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:33:44,694 - INFO - 127.0.0.1 - - [13/Oct/2023 14:33:44] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:35:04,104 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\pandas\\core\\frame.py', reloading
+2023-10-13 14:35:04,508 - INFO -  * Detected change in 'C:\\Users\\alokkumar.das\\AppData\\Roaming\\Python\\Python310\\site-packages\\pandas\\core\\arraylike.py', reloading
+2023-10-13 14:35:05,802 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:35:09,344 - WARNING -  * Debugger is active!
+2023-10-13 14:35:09,352 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:35:26,019 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\training\\training.py', reloading
+2023-10-13 14:35:26,028 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\training\\training.py', reloading
+2023-10-13 14:35:26,029 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\training\\training.py', reloading
+2023-10-13 14:35:26,030 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\training\\training.py', reloading
+2023-10-13 14:35:26,659 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:35:32,588 - INFO - Data processing and model retraining completed.
+2023-10-13 14:35:32,746 - WARNING -  * Debugger is active!
+2023-10-13 14:35:32,751 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:35:56,545 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:35:56,546 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:35:56,546 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:35:56,547 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:35:56,667 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:35:57,686 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:36:23,528 - INFO - Data processing and model retraining completed.
+2023-10-13 14:36:23,657 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-13 14:36:23,657 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-13 14:36:23,669 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:36:29,478 - INFO - Data processing and model retraining completed.
+2023-10-13 14:36:29,607 - WARNING -  * Debugger is active!
+2023-10-13 14:36:29,611 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:36:34,465 - INFO - 127.0.0.1 - - [13/Oct/2023 14:36:34] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:37:31,749 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:37:31,749 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:37:31,749 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:37:32,018 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:37:32,769 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:37:40,092 - INFO - Data processing and model retraining completed.
+2023-10-13 14:37:40,239 - WARNING -  * Debugger is active!
+2023-10-13 14:37:40,245 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:37:40,425 - INFO - 127.0.0.1 - - [13/Oct/2023 14:37:40] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:38:08,472 - INFO - 127.0.0.1 - - [13/Oct/2023 14:38:08] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:38:36,845 - INFO - 127.0.0.1 - - [13/Oct/2023 14:38:36] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:39:26,478 - INFO - 127.0.0.1 - - [13/Oct/2023 14:39:26] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:39:47,641 - INFO - 127.0.0.1 - - [13/Oct/2023 14:39:47] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:40:19,869 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:40:19,871 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:40:19,871 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:40:19,871 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:40:21,654 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:40:28,412 - INFO - Data processing and model retraining completed.
+2023-10-13 14:40:28,541 - WARNING -  * Debugger is active!
+2023-10-13 14:40:28,546 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:40:28,703 - INFO - 127.0.0.1 - - [13/Oct/2023 14:40:28] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:41:16,476 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:41:16,477 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:41:16,478 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:41:16,478 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:41:17,669 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:41:23,619 - INFO - Data processing and model retraining completed.
+2023-10-13 14:41:23,771 - WARNING -  * Debugger is active!
+2023-10-13 14:41:23,776 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:41:23,937 - INFO - 127.0.0.1 - - [13/Oct/2023 14:41:23] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:41:53,087 - INFO - 127.0.0.1 - - [13/Oct/2023 14:41:53] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:43:06,881 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:43:06,882 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:43:06,882 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:43:06,882 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:43:07,560 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:43:15,638 - INFO - Data processing and model retraining completed.
+2023-10-13 14:43:15,813 - WARNING -  * Debugger is active!
+2023-10-13 14:43:15,820 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:43:16,006 - INFO - 127.0.0.1 - - [13/Oct/2023 14:43:16] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:45:18,137 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:45:18,138 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:45:18,138 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:45:18,139 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:45:19,570 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:45:25,385 - INFO - Data processing and model retraining completed.
+2023-10-13 14:45:25,530 - WARNING -  * Debugger is active!
+2023-10-13 14:45:25,538 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:45:25,745 - INFO - 127.0.0.1 - - [13/Oct/2023 14:45:25] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:46:12,187 - INFO - 127.0.0.1 - - [13/Oct/2023 14:46:12] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 14:58:23,302 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:58:23,302 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:58:23,302 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:58:23,302 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 14:58:24,007 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:58:31,091 - INFO - Data processing and model retraining completed.
+2023-10-13 14:58:31,325 - WARNING -  * Debugger is active!
+2023-10-13 14:58:31,330 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 14:58:38,110 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\training\\training.py', reloading
+2023-10-13 14:58:38,111 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\training\\training.py', reloading
+2023-10-13 14:58:38,111 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\training\\training.py', reloading
+2023-10-13 14:58:38,769 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 14:58:41,556 - WARNING -  * Debugger is active!
+2023-10-13 14:58:41,560 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 15:02:04,789 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-13 15:02:04,790 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-13 15:02:04,801 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 15:02:08,315 - WARNING -  * Debugger is active!
+2023-10-13 15:02:08,320 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 15:02:15,226 - INFO - 127.0.0.1 - - [13/Oct/2023 15:02:15] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 15:07:37,460 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 15:07:38,389 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 15:07:38,891 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 15:07:42,444 - WARNING -  * Debugger is active!
+2023-10-13 15:07:42,450 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 15:07:45,896 - INFO - 127.0.0.1 - - [13/Oct/2023 15:07:45] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 15:10:45,795 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 15:10:45,795 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 15:10:45,796 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 15:10:45,796 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 15:10:46,407 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 15:10:49,293 - WARNING -  * Debugger is active!
+2023-10-13 15:10:49,298 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 15:11:28,930 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 15:11:28,930 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 15:11:28,931 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 15:11:28,932 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.2\\app.py', reloading
+2023-10-13 15:11:29,271 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 15:15:57,524 - INFO - Running data collection...
+2023-10-13 15:15:59,713 - INFO - Data collected from page 1
+2023-10-13 15:16:06,604 - INFO - Data collected from page 2
+2023-10-13 15:17:12,253 - ERROR - Request Exception: 500 Server Error: Internal Server Error for url: http://172.17.1.64:3000/api/getuserproductsearchhistory?page=3
+2023-10-13 15:17:12,363 - INFO - Running data processing...
+2023-10-13 15:17:15,229 - INFO - Data processing and model retraining completed.
+2023-10-13 15:27:25,762 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-13 15:27:25,762 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-13 15:27:25,787 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 15:27:30,521 - WARNING -  * Debugger is active!
+2023-10-13 15:27:30,526 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 15:27:31,963 - INFO - 127.0.0.1 - - [13/Oct/2023 15:27:31] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 15:29:09,090 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.3\\app.py', reloading
+2023-10-13 15:29:09,092 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.3\\app.py', reloading
+2023-10-13 15:29:09,092 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.3\\app.py', reloading
+2023-10-13 15:29:09,093 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.3\\app.py', reloading
+2023-10-13 15:29:10,035 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 15:29:13,248 - WARNING -  * Debugger is active!
+2023-10-13 15:29:13,252 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 15:29:27,104 - INFO - 127.0.0.1 - - [13/Oct/2023 15:29:27] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 15:45:11,245 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-13 15:45:11,245 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-13 15:45:11,260 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 15:45:14,983 - WARNING -  * Debugger is active!
+2023-10-13 15:45:14,988 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 15:45:16,303 - INFO - 127.0.0.1 - - [13/Oct/2023 15:45:16] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 15:45:37,394 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.4\\app.py', reloading
+2023-10-13 15:45:37,395 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.4\\app.py', reloading
+2023-10-13 15:45:37,395 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.4\\app.py', reloading
+2023-10-13 15:45:37,395 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.4\\app.py', reloading
+2023-10-13 15:45:38,014 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 15:45:41,852 - WARNING -  * Debugger is active!
+2023-10-13 15:45:41,858 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 15:45:43,438 - INFO - 127.0.0.1 - - [13/Oct/2023 15:45:43] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 15:46:18,308 - INFO - 127.0.0.1 - - [13/Oct/2023 15:46:18] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 15:46:38,315 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.4\\app.py', reloading
+2023-10-13 15:46:38,316 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.4\\app.py', reloading
+2023-10-13 15:46:38,317 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.4\\app.py', reloading
+2023-10-13 15:46:38,317 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.4\\app.py', reloading
+2023-10-13 15:46:39,071 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 15:46:43,288 - WARNING -  * Debugger is active!
+2023-10-13 15:46:43,293 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 15:46:44,626 - INFO - 127.0.0.1 - - [13/Oct/2023 15:46:44] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 15:46:54,001 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.4\\app.py', reloading
+2023-10-13 15:46:54,002 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.4\\app.py', reloading
+2023-10-13 15:46:54,002 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.4\\app.py', reloading
+2023-10-13 15:46:54,003 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.4\\app.py', reloading
+2023-10-13 15:46:54,680 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 15:46:57,985 - WARNING -  * Debugger is active!
+2023-10-13 15:46:57,990 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 15:46:59,580 - INFO -  * Detected change in 'd:\\POC_WEB_3.0\\Development\\3.0.4\\app.py', reloading
+2023-10-13 15:47:01,490 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 16:09:28,327 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-13 16:09:28,327 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-13 16:09:28,348 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-13 16:09:31,788 - WARNING -  * Debugger is active!
+2023-10-13 16:09:31,793 - INFO -  * Debugger PIN: 723-088-456
+2023-10-13 16:09:35,056 - INFO - 127.0.0.1 - - [13/Oct/2023 16:09:35] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 16:14:48,989 - INFO - 127.0.0.1 - - [13/Oct/2023 16:14:48] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 16:28:24,820 - INFO - Data processing and model retraining completed.
+2023-10-13 16:43:30,651 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-13 16:43:30,651 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-13 16:43:30,667 - INFO -  * Restarting with stat
+2023-10-13 16:43:35,256 - WARNING -  * Debugger is active!
+2023-10-13 16:43:35,268 - INFO -  * Debugger PIN: 120-895-345
+2023-10-13 16:43:36,633 - INFO - 127.0.0.1 - - [13/Oct/2023 16:43:36] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 16:43:44,363 - INFO - 127.0.0.1 - - [13/Oct/2023 16:43:44] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 17:01:46,249 - INFO - 127.0.0.1 - - [13/Oct/2023 17:01:46] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 17:01:51,181 - INFO - 127.0.0.1 - - [13/Oct/2023 17:01:51] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 17:35:51,794 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.5\\app.py', reloading
+2023-10-13 17:35:52,137 - INFO -  * Restarting with stat
+2023-10-13 17:36:00,451 - WARNING -  * Debugger is active!
+2023-10-13 17:36:00,465 - INFO -  * Debugger PIN: 120-895-345
+2023-10-13 17:36:02,146 - INFO - 127.0.0.1 - - [13/Oct/2023 17:36:02] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 17:37:17,851 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.5\\app.py', reloading
+2023-10-13 17:37:18,117 - INFO -  * Restarting with stat
+2023-10-13 17:37:20,192 - WARNING -  * Debugger is active!
+2023-10-13 17:37:20,201 - INFO -  * Debugger PIN: 120-895-345
+2023-10-13 17:37:24,981 - INFO - 127.0.0.1 - - [13/Oct/2023 17:37:24] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 17:42:05,284 - INFO - 127.0.0.1 - - [13/Oct/2023 17:42:05] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-13 17:56:46,617 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.5\\app.py', reloading
+2023-10-13 17:56:47,017 - INFO -  * Restarting with stat
+2023-10-13 17:56:56,517 - WARNING -  * Debugger is active!
+2023-10-13 17:56:56,529 - INFO -  * Debugger PIN: 120-895-345
+2023-10-13 17:56:57,906 - INFO - 127.0.0.1 - - [13/Oct/2023 17:56:57] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-16 10:59:06,818 - INFO - 127.0.0.1 - - [16/Oct/2023 10:59:06] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-16 10:59:08,767 - INFO - 127.0.0.1 - - [16/Oct/2023 10:59:08] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-16 10:59:09,776 - INFO - 127.0.0.1 - - [16/Oct/2023 10:59:09] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-16 10:59:10,666 - INFO - 127.0.0.1 - - [16/Oct/2023 10:59:10] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-16 10:59:12,018 - INFO - 127.0.0.1 - - [16/Oct/2023 10:59:12] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-16 11:42:02,942 - INFO - 127.0.0.1 - - [16/Oct/2023 11:42:02] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-16 12:40:11,695 - INFO - 127.0.0.1 - - [16/Oct/2023 12:40:11] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-16 12:40:27,953 - INFO - 127.0.0.1 - - [16/Oct/2023 12:40:27] "GET /get_recommendations HTTP/1.1" 200 -
+2023-10-16 12:40:49,785 - INFO - 127.0.0.1 - - [16/Oct/2023 12:40:49] "POST /get_recommendations HTTP/1.1" 200 -
+2023-10-16 12:41:24,806 - INFO - 127.0.0.1 - - [16/Oct/2023 12:41:24] "POST /get_recommendations HTTP/1.1" 200 -
+2023-10-16 12:43:07,130 - INFO - 127.0.0.1 - - [16/Oct/2023 12:43:07] "POST /get_recommendations HTTP/1.1" 200 -
+2023-10-16 12:43:49,054 - INFO - 127.0.0.1 - - [16/Oct/2023 12:43:49] "POST /get_recommendations HTTP/1.1" 200 -
+2023-10-16 12:44:21,690 - INFO - 127.0.0.1 - - [16/Oct/2023 12:44:21] "POST /get_recommendations HTTP/1.1" 200 -
+2023-10-16 12:46:02,793 - INFO - 127.0.0.1 - - [16/Oct/2023 12:46:02] "POST /get_recommendations HTTP/1.1" 200 -
+2023-10-16 12:47:02,267 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.5\\app.py', reloading
+2023-10-16 12:47:02,977 - INFO -  * Restarting with stat
+2023-10-16 12:47:50,265 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-16 12:47:50,265 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-16 12:47:50,267 - INFO -  * Restarting with stat
+2023-10-16 12:47:53,049 - WARNING -  * Debugger is active!
+2023-10-16 12:47:53,057 - INFO -  * Debugger PIN: 120-895-345
+2023-10-16 12:47:57,738 - INFO - 127.0.0.1 - - [16/Oct/2023 12:47:57] "POST /get_recommendations HTTP/1.1" 200 -
+2023-10-16 12:48:01,244 - INFO - 127.0.0.1 - - [16/Oct/2023 12:48:01] "POST /get_recommendations HTTP/1.1" 200 -
+2023-10-16 12:48:04,513 - INFO - 127.0.0.1 - - [16/Oct/2023 12:48:04] "POST /get_recommendations HTTP/1.1" 200 -
+2023-10-16 12:48:29,033 - INFO - 127.0.0.1 - - [16/Oct/2023 12:48:29] "POST /get_recommendations HTTP/1.1" 200 -
+2023-10-16 12:50:42,738 - INFO - 127.0.0.1 - - [16/Oct/2023 12:50:42] "POST /get_recommendations HTTP/1.1" 200 -
+2023-10-16 15:21:20,935 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.5\\training\\training.py', reloading
+2023-10-16 15:21:21,421 - INFO -  * Restarting with stat
+2023-10-16 15:22:05,187 - INFO - Data processing and model retraining completed.
+2023-10-16 15:24:03,410 - INFO - Data processing and model retraining completed.
+2023-10-16 15:24:03,667 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-16 15:24:03,667 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-16 15:24:03,670 - INFO -  * Restarting with stat
+2023-10-16 15:24:08,657 - INFO - Data processing and model retraining completed.
+2023-10-16 15:24:08,781 - WARNING -  * Debugger is active!
+2023-10-16 15:24:08,798 - INFO -  * Debugger PIN: 120-895-345
+2023-10-16 15:24:19,242 - INFO - 127.0.0.1 - - [16/Oct/2023 15:24:19] "POST /get_recommendations HTTP/1.1" 200 -
+2023-10-16 15:51:09,065 - INFO - 127.0.0.1 - - [16/Oct/2023 15:51:09] "POST /get_recommendations HTTP/1.1" 200 -
+2023-10-16 16:44:31,905 - INFO - 127.0.0.1 - - [16/Oct/2023 16:44:31] "POST /get_recommendations HTTP/1.1" 200 -
+2023-10-16 16:51:16,863 - INFO -  * Detected change in 'D:\\POC_WEB_3.0\\Development\\3.0.5\\data_collection\\data_collection_2.py', reloading
+2023-10-16 16:51:17,348 - INFO -  * Restarting with stat
+2023-10-16 16:51:47,493 - INFO - Data collected from page 1
+2023-10-16 16:51:58,580 - INFO - Data collected from page 2
+2023-10-16 16:52:09,096 - INFO - Data collected from page 3
+2023-10-16 16:52:20,120 - INFO - Data collected from page 4
+2023-10-16 16:52:30,660 - INFO - Data collected from page 5
+2023-10-16 16:52:41,752 - INFO - Data collected from page 6
+2023-10-16 16:52:49,273 - INFO - Data collected from page 7
+2023-10-16 16:54:05,735 - INFO - Data processing and model retraining completed.
+2023-10-16 17:18:08,849 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017F66FC8E88>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+2023-10-16 17:20:07,657 - INFO - Data collected from page 1
+2023-10-16 17:20:16,829 - INFO - Data collected from page 2
+2023-10-16 17:20:26,602 - INFO - Data collected from page 3
+2023-10-16 17:20:35,907 - INFO - Data collected from page 4
+2023-10-16 17:20:45,392 - INFO - Data collected from page 5
+2023-10-16 17:20:55,752 - INFO - Data collected from page 6
+2023-10-16 17:21:03,435 - INFO - Data collected from page 7
+2023-10-16 17:23:15,656 - INFO - Data collected from page 1
+2023-10-16 17:23:24,225 - INFO - Data collected from page 2
+2023-10-16 17:23:33,970 - INFO - Data collected from page 3
+2023-10-16 17:23:43,031 - INFO - Data collected from page 4
+2023-10-16 17:23:52,984 - INFO - Data collected from page 5
+2023-10-16 17:24:02,811 - INFO - Data collected from page 6
+2023-10-16 17:24:10,576 - INFO - Data collected from page 7
+2023-10-16 17:25:38,368 - INFO - Data collected from page 1
+2023-10-16 17:25:45,635 - ERROR - Request Exception: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2023-10-16 17:26:25,704 - INFO - Data collected from page 1
+2023-10-16 17:26:34,618 - INFO - Data collected from page 2
+2023-10-16 17:26:44,846 - INFO - Data collected from page 3
+2023-10-16 17:26:54,549 - INFO - Data collected from page 4
+2023-10-16 17:27:04,244 - INFO - Data collected from page 5
+2023-10-16 17:27:13,403 - INFO - Data collected from page 6
+2023-10-16 17:27:21,671 - INFO - Data collected from page 7
+2023-10-16 17:28:11,990 - INFO - Data processing and model retraining completed.
+2023-10-16 17:42:53,323 - INFO - Data collected from page 1
+2023-10-16 17:43:02,357 - INFO - Data collected from page 2
+2023-10-16 17:43:11,125 - INFO - Data collected from page 3
+2023-10-16 17:43:19,661 - INFO - Data collected from page 4
+2023-10-16 17:43:28,804 - INFO - Data collected from page 5
+2023-10-16 17:43:38,247 - INFO - Data collected from page 6
+2023-10-16 17:43:46,611 - INFO - Data collected from page 7
+2023-10-16 17:44:18,638 - INFO - Data collected from page 1
+2023-10-16 17:44:26,622 - INFO - Data collected from page 2
+2023-10-16 17:44:35,120 - INFO - Data collected from page 3
+2023-10-16 17:44:43,090 - INFO - Data collected from page 4
+2023-10-16 17:44:51,801 - INFO - Data collected from page 5
+2023-10-16 17:45:01,125 - INFO - Data collected from page 6
+2023-10-16 17:45:08,855 - INFO - Data collected from page 7
+2023-10-16 20:22:16,493 - INFO - Data processing and model retraining completed.
+2023-10-16 20:22:37,752 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000246D7CAB848>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+2023-10-16 20:22:37,795 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-16 20:22:37,795 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-16 20:22:37,797 - INFO -  * Restarting with stat
+2023-10-16 20:22:53,707 - INFO - Data processing and model retraining completed.
+2023-10-16 20:23:14,871 - ERROR - Request Exception: HTTPConnectionPool(host='172.17.1.64', port=3000): Max retries exceeded with url: /api/getuserproductsearchhistory?page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A685ADF4C8>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+2023-10-16 20:23:14,929 - WARNING -  * Debugger is active!
+2023-10-16 20:23:14,948 - INFO -  * Debugger PIN: 120-895-345
+2023-10-16 20:23:14,983 - INFO - 127.0.0.1 - - [16/Oct/2023 20:23:14] "POST /get_recommendations HTTP/1.1" 200 -
+2023-10-16 20:23:20,928 - INFO - 127.0.0.1 - - [16/Oct/2023 20:23:20] "POST /get_recommendations HTTP/1.1" 200 -
